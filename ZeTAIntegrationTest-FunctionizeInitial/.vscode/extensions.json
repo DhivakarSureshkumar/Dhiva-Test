@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "ms-playwright.playwright",
-    "github.copilot",
-    "github.copilot-chat",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
-  ]
-}
